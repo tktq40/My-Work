@@ -17,7 +17,7 @@ work that have been done before, it's just a readme doc so you can know I have i
   - skinbaron.
   - C5Game (No demand).
   - Steam market.
-+ Scarper (for pricing data and more):
++ Scraper (for pricing data and more):
   - Buff163 (buy/sell/by float/by phase/ by tier).
   - Youpin (No demand).
   - Inventory scraper.
