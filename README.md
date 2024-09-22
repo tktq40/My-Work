@@ -31,3 +31,6 @@ It worked before, but it's been a long time, so I need to test it again. If it's
 ## Others:
 - **skinport captcha solver** (low demand, needs review)
 - **cs2 skins ripper** (working on it)
+
+## Demos/Proof of work:
+https://www.youtube.com/playlist?list=PL5FOtDO8UPtGkrYtWhB7BX56isdfxeimh
