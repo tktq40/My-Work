@@ -22,6 +22,7 @@ It worked before, but it's been a long time, so I need to test it again. If it's
 - **skinbaron**
 - **C5Game** (no demand)
 - **Steam market**
+- **White market**
 
 ## Scrapers (for pricing data and more):
 - **Buff163** (buy/sell/by float/by phase/by tier)
@@ -29,8 +30,9 @@ It worked before, but it's been a long time, so I need to test it again. If it's
 - **Inventory scraper**
 
 ## Others:
-- **skinport captcha solver** (low demand, needs review)
-- **cs2 skins ripper** (working on it)
+- **Skinport captcha solver** (low demand, needs review)
+- **Multi market lister**
+- **Cs2 skins ripper** (working on it)
 
 ## Demos/Proof of work:
 https://www.youtube.com/playlist?list=PL5FOtDO8UPtGkrYtWhB7BX56isdfxeimh
