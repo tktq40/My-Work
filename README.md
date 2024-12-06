@@ -1,6 +1,7 @@
 # Previous Work
 
 It's just a readme doc so you can check if I have what you need. Feel free to DM me if what you're looking for isn't on the list.
+
 From now on I don't work on botting anymore and most of the project just for review, beside botting just dm me if you have work or interesting project you want to discuss.
 
 **Low/No demand** means there aren't many people interested in it at the moment. However, if you're really interested in the project, feel free to DM me, and I'll do some research and try to get it done.
